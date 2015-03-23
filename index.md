@@ -21,10 +21,11 @@ Actual rates of diffusion and perfusion, and solubility of gases in specific tis
 ---
 # Saturation 
 If the supply of gas to a solvent is unlimited, the gas will diffuse into the solvent until there is so much dissolved that equilibrium is reached and the amount diffusing back out is equal to the amount diffusing in. This is called saturation.
+   
 <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tissue_half_times_%281%29.svg/360px-Tissue_half_times_%281%29.svg.png" />
 ---
-# Critical ratio model[edit]
+# Critical ratio model
 J.S. Haldane originally used a pressure ratio of 2 to 1 for decompression on the principle that the saturation of the body should at no time be allowed to exceed about double the air pressure.[11] This principle was applied as a pressure ratio of total ambient pressure and did not take into account the partial pressures of the component gases of the breathing air. His experimental work on goats and observations of human divers appeared to support this assumption. However, in time, this was found to be inconsistent with incidence of decompression sickness and changes were made to the initial assumptions. This was later changed to a 1.58:1 ratio of nitrogen partial pressures.
 
-# Critical difference models[edit]
+# Critical difference models
 Further research by people such as Robert Workman suggested that the criterion was not the ratio of pressures, but the actual pressure differentials. Applied to Haldane's work, this would suggest that the limit is not determined by the 1.58:1 ratio but rather by the difference of 0.58 atmospheres between tissue pressure and ambient pressure. Most tables today, including the Bühlmann tables, are based on the critical difference model.[12]
