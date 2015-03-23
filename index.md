@@ -1,6 +1,5 @@
-# diving-agh
+# Diving AGH 2015
 Prezentacja: http://matips.github.io/diving-agh
-
 Wesja do czytania: https://github.com/matips/diving-agh/blob/gh-pages/index.md
 ---
 # Decompresion
@@ -33,7 +32,7 @@ J.S. Haldane originally used a pressure ratio of 2 to 1 for decompression on the
 # Critical difference models
 Further research by people such as Robert Workman suggested that the criterion was not the ratio of pressures, but the actual pressure differentials. Applied to Haldane's work, this would suggest that the limit is not determined by the 1.58:1 ratio but rather by the difference of 0.58 atmospheres between tissue pressure and ambient pressure. Most tables today, including the Bühlmann tables, are based on the critical difference model.
 ---
-#M-values
+# M-values
 At a given ambient pressure, the M-value is the maximum value of absolute inert gas pressure that a tissue compartment can take without presenting symptoms of decompression sickness. M-values are limits for the tolerated gradient between inert gas pressure and ambient pressure in each compartment. Alternative terminology for M-values include "supersaturation limits", "limits for tolerated overpressure", and "critical tensions".
 ---
 # Bubble mechanics
