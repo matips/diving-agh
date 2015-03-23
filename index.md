@@ -1,6 +1,6 @@
 # Diving AGH 2015
 Prezentacja: http://matips.github.io/diving-agh
-Wesja do czytania: https://github.com/matips/diving-agh/blob/gh-pages/index.md
+Wersja do czytania: https://github.com/matips/diving-agh/blob/gh-pages/index.md
 ---
 # Decompresion
 Decompression theory is the study and modelling of the transfer of the inert gas component of breathing gases from the gas in the lungs to the tissues and back during exposure to variations in ambient pressure.
