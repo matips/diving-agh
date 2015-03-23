@@ -44,3 +44,14 @@ Equilibrium of forces on the surface is required for a bubble to exist. These ar
 - This surface layer may vary in permeability, so that if the bubble is compressed it may become impermeable to diffusion at sufficient compression.
 ---
 If the solvent outside the bubble is saturated or unsaturated, the partial pressure will be less than in the bubble, and the surface tension will be increasing the internal pressure in direct proportion to surface curvature, providing a pressure gradient to increase diffusion out of the bubble, effectively "squeezing the gas out of the bubble", and the smaller the bubble the faster it will get squeezed out. A gas bubble can only grow at constant pressure if the surrounding solvent is sufficiently supersaturated to overcome the surface tension or if the surface layer provides sufficient reaction to overcome surface tension.
+---
+# Bubble models
+Bubble decompression models are a rule based approach to calculating decompression based on the idea that microscopic bubble nuclei always exist in water and tissues that contain water and that by predicting and controlling the bubble growth, one can avoid decompression sickness. Most of the bubble models assume that bubbles will form during decompression, and that mixed phase gas elimination occurs.
+
+Decompression models that assume mixed phase gas elimination include:
+
+- The arterial bubble decompression model of the French Tables du Ministère du Travail 1992
+- The U.S.Navy Exponential-Linear (Thalmann) algorithm used for the 2008 US Navy air decompression tables (among others)
+- Hennessy's combined perfusion/diffusion model of the BSAC'88 tables
+- The Varying Permeability Model (VPM) developed by D.E. Yount and others at the University of Hawaii
+- The Reduced Gradient Bubble Model (RGBM) developed by Bruce Wienke at Los Alamos National Laboratory
