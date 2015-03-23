@@ -25,7 +25,21 @@ If the supply of gas to a solvent is unlimited, the gas will diffuse into the so
 <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tissue_half_times_%281%29.svg/360px-Tissue_half_times_%281%29.svg.png" />
 ---
 # Critical ratio model
-J.S. Haldane originally used a pressure ratio of 2 to 1 for decompression on the principle that the saturation of the body should at no time be allowed to exceed about double the air pressure.[11] This principle was applied as a pressure ratio of total ambient pressure and did not take into account the partial pressures of the component gases of the breathing air. His experimental work on goats and observations of human divers appeared to support this assumption. However, in time, this was found to be inconsistent with incidence of decompression sickness and changes were made to the initial assumptions. This was later changed to a 1.58:1 ratio of nitrogen partial pressures.
+J.S. Haldane originally used a pressure ratio of 2 to 1 for decompression on the principle that the saturation of the body should at no time be allowed to exceed about double the air pressure. This principle was applied as a pressure ratio of total ambient pressure and did not take into account the partial pressures of the component gases of the breathing air. His experimental work on goats and observations of human divers appeared to support this assumption. However, in time, this was found to be inconsistent with incidence of decompression sickness and changes were made to the initial assumptions. This was later changed to a 1.58:1 ratio of nitrogen partial pressures.
 
 # Critical difference models
-Further research by people such as Robert Workman suggested that the criterion was not the ratio of pressures, but the actual pressure differentials. Applied to Haldane's work, this would suggest that the limit is not determined by the 1.58:1 ratio but rather by the difference of 0.58 atmospheres between tissue pressure and ambient pressure. Most tables today, including the Bühlmann tables, are based on the critical difference model.[12]
+Further research by people such as Robert Workman suggested that the criterion was not the ratio of pressures, but the actual pressure differentials. Applied to Haldane's work, this would suggest that the limit is not determined by the 1.58:1 ratio but rather by the difference of 0.58 atmospheres between tissue pressure and ambient pressure. Most tables today, including the Bühlmann tables, are based on the critical difference model.
+---
+#M-values
+At a given ambient pressure, the M-value is the maximum value of absolute inert gas pressure that a tissue compartment can take without presenting symptoms of decompression sickness. M-values are limits for the tolerated gradient between inert gas pressure and ambient pressure in each compartment. Alternative terminology for M-values include "supersaturation limits", "limits for tolerated overpressure", and "critical tensions".
+---
+#Bubble mechanics
+Equilibrium of forces on the surface is required for a bubble to exist. These are:
+
+- Ambient pressure, exerted on the outside of the surface, acting inwards
+- Pressure due to tissue distortion, also on the outside and acting inwards
+- Surface tension of the liquid at the interface between the bubble and the surroundings. This is along the surface of the bubble, so the resultant acts towards the centre of curvature. This will tend to squeeze the bubble, and is more severe for small bubbles as it is an inverse function of the radius.
+- The resulting forces must be balanced by the pressure on the inside of the bubble. This is the sum of the partial pressures of the gases inside due to the net diffusion of gas to and from the bubble.
+- The force balance in the bubble may be modified by a layer of surface active molecules which can stabilise a microbubble at a size where surface tension on a clean bubble would cause it to collapse rapidly.[18]
+- This surface layer may vary in permeability, so that if the bubble is compressed it may become impermeable to diffusion at sufficient compression.
+If the solvent outside the bubble is saturated or unsaturated, the partial pressure will be less than in the bubble, and the surface tension will be increasing the internal pressure in direct proportion to surface curvature, providing a pressure gradient to increase diffusion out of the bubble, effectively "squeezing the gas out of the bubble", and the smaller the bubble the faster it will get squeezed out. A gas bubble can only grow at constant pressure if the surrounding solvent is sufficiently supersaturated to overcome the surface tension or if the surface layer provides sufficient reaction to overcome surface tension.[18]
