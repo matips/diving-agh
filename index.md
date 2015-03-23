@@ -8,23 +8,7 @@ Decompression involves a complex interaction of gas solubility, partial pressure
 ---
 #Solubility of gases at 37 °C[1]   
 
-<table>
-<tr>
-  <td>Gas	Molecular</td>
-  <td>weight</td>
-  <td> Water solubility</td>
-  <td>Lipid solubility</td>
-  <td>Water/lipid solubility ratio</td>
-</tr>
-</table>
-Gas	Molecular |weight|	Water solubility	|Lipid solubility	|Water/lipid solubility ratio
---------------|------|-------------------|-----------------|-----------------------------
-Hydrogen|	2|	0.016|	0.048	|3.1
-Helium	|4	|0.0085|	0.015	|1.7
-Neon|	20|	0.0097|0.019|	2.07
-Nitrogen	|28	|0.013|	0.067|	5.2
-Oxygen	|32	|0.024|	0.12|	5.0
-Carbon dioxide	|44	|0.56	|0.876|	1.6
+<table class="rich-diff-level-zero"> <thead class="rich-diff-level-one"> <tr> <th>Gas Molecular</th> <th>weight</th> <th>Water solubility</th> <th>Lipid solubility</th> <th>Water/lipid solubility ratio</th> </tr> </thead> <tbody class="rich-diff-level-one"> <tr> <td>Hydrogen</td> <td>2</td> <td>0.016</td> <td>0.048</td> <td>3.1</td> </tr> <tr> <td>Helium</td> <td>4</td> <td>0.0085</td> <td>0.015</td> <td>1.7</td> </tr> <tr> <td>Neon</td> <td>20</td> <td>0.0097</td> <td>0.019</td> <td>2.07</td> </tr> <tr> <td>Nitrogen</td> <td>28</td> <td>0.013</td> <td>0.067</td> <td>5.2</td> </tr> <tr> <td>Oxygen</td> <td>32</td> <td>0.024</td> <td>0.12</td> <td>5.0</td> </tr> <tr> <td>Carbon dioxide</td> <td>44</td> <td>0.56</td> <td>0.876</td> <td>1.6</td> </tr> </tbody> </table>
 ---
 # Inert gas uptake (Ingassing)
 In this context, inert gas refers to a gas which is not metabolically active. Atmospheric nitrogen (N2) is the most common example, and helium (He) is the other inert gas commonly used in breathing mixtures for divers.   
