@@ -8,6 +8,15 @@ Decompression involves a complex interaction of gas solubility, partial pressure
 ---
 #Solubility of gases at 37 °C[1]   
 
+<table>
+<tr>
+  <td>Gas	Molecular</td>
+  <td>weight</td>
+  <td> Water solubility</td>
+  <td>Lipid solubility</td>
+  <td>Water/lipid solubility ratio</td>
+</tr>
+</table>
 Gas	Molecular |weight|	Water solubility	|Lipid solubility	|Water/lipid solubility ratio
 --------------|------|-------------------|-----------------|-----------------------------
 Hydrogen|	2|	0.016|	0.048	|3.1
