@@ -1,5 +1,6 @@
 # Diving AGH 2015
-Prezentacja: http://matips.github.io/diving-agh
+Prezentacja: http://matips.github.io/diving-agh   
+
 Wersja do czytania: https://github.com/matips/diving-agh/blob/gh-pages/index.md
 ---
 # Decompresion
